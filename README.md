@@ -23,7 +23,7 @@
   <!-- - [❓ FAQ (OPTIONAL)](#faq) -->
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+
 
 # 📖 Hello_rails_back-end <a name="about-project"></a>
 
