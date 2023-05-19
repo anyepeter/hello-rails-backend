@@ -48,7 +48,7 @@ A rails app that allows users to fetch a random message sent from the database.
   </ul>
 </details>
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
